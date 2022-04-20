@@ -1,0 +1,8 @@
+button {
+    display: block
+}
+
+.invalid {
+    color: red;
+    font-weight: bold;
+}
